@@ -1,0 +1,9 @@
+{
+  id: @employee.id,
+  first_name: @employee.first_name,
+  last_name: @employee.last_name,
+  email: @employee.email,
+  bio: @employee.bio,
+  created_at: @employee.created_at,
+  updated_at: @employee.updated_at
+}

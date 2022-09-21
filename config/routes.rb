@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :employees
   get 'home/about'
   root 'home#index'
   # EXAMPLE HTML ROUTE
